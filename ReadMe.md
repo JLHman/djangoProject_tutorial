@@ -22,13 +22,14 @@ You’ll see output similar to this:
 * Quit the server with CTRL-BREAK.
 
 
-## Create Administrator for the project
+## Create a Super User for the project
 
 Run the create super user command:
 
 `$ py manage.py createsuperuser`
 
-Create an administrator profile for the project. 
+Create an administrator profile for the project. Start the web server and log into your newly created account 
+using your new credentials here: [Login](http://127.0.0.1:8000/accounts/login/)
 
 ## Create SQL entries for the project
 
