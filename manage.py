@@ -1,3 +1,8 @@
+# INF601 - Advanced Programming in Python
+# Jesse Heckman
+# Mini Project # 4
+
+
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
